@@ -1,0 +1,8 @@
+Hi!
+
+This software is used RCS OnlineService.
+This Service can only used to GET infomation, not write infomation.
+I won't welcome anyone to PR this repository, because that's not a software repository.
+Click "accept" button below will enable RCSE OnlineService.
+If you don't accept OnlineService License, this service will be disabled.
+
