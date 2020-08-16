@@ -1,8 +1,19 @@
-Hi!
+SimpleSeries Online Service Agreement
+August 16, 2020
 
-This software is used RCS OnlineService.
-This Service can only used to GET infomation, not write infomation.
-I won't welcome anyone to PR this repository, because that's not a software repository.
-Click "accept" button below will enable RCSE OnlineService.
-If you don't accept OnlineService License, this service will be disabled.
+This services is a read-only service for public used by SimpleSeries Online Applications.
 
+You can use this service in your application without prior permissions, and all contents in this repository can be redistributed, with author attributions. Copyright of this repository belongs to RelaperCrystal (sometimes @rcdraft).
+
+Permissions are given when following conditions are met:
+
+1. Application "about box" or "version command", or these commands shows application information must provide a link to this repository and provide following message to the user:
+  This application contains "SimpleSeries Online" from RelaperCrystal.
+
+2. Application must provide "license agreement" page or configuration option to decline this license and quit the service.
+
+If you do not agree with this license, you can click "decline" and quit this service. If the ask box does not appear, you can decline this license from "configuration file" as required.
+
+The service itself does not collect any private information, hovewer, hosting providers can collect your privacy information: please refer to their Privacy Policy.
+
+Click agree to continue. Otherwise, click Decline to exit the service.
